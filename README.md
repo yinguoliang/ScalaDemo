@@ -1,0 +1,2 @@
+# ScalaDemo
+practice of scala
